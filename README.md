@@ -9,9 +9,9 @@ total normalidad, ya que tiene una gestión de memoria muy buena, lo que evita p
 ----
 ¿Qué necesitamos?
 ----
-Librería ArduinoJSON: Descargar de [Aquí][1]. 
-Algún sensor: En el caso de que queráis probarlo junto con algo.
-Nuestro arduino.
+* Librería ArduinoJSON: Descargar de [Aquí][1]. 
+* Algún sensor: En el caso de que queráis probarlo junto con algo.
+* Nuestro arduino.
 
 ----
 Primer Ejemplo
